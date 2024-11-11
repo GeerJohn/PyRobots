@@ -1,1 +1,1 @@
-Repositorio main: https://github.com/PyRobots-IS-BombaFork-FaMAF
+Main repository: https://github.com/PyRobots-IS-BombaFork-FaMAF
